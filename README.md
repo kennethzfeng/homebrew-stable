@@ -1,0 +1,2 @@
+# homebrew-stable
+Stable versions
