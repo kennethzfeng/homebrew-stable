@@ -41,7 +41,7 @@ class Vim8 < Formula
                           "--with-compiledby=Homebrew",
                           "--enable-perlinterp",
                           "--enable-rubyinterp",
-                          "--enable-python3interp",
+                          "--enable-pythoninterp",
                           "--enable-gui=no",
                           "--without-x",
                           "--enable-luainterp",
